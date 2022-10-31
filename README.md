@@ -4,6 +4,8 @@ Hanif MS. Patch match networks: Improved two-channel and Siamese networks for im
 
 Read full article [here](https://www.sciencedirect.com/science/article/abs/pii/S0167865519300054).
 
+Pretrained models are available in models directory or from project page (https://sites.google.com/site/patchmatchnetworks/).
+
 Evaluation: UBC benchmark dataset
 ---------------------------------
 
