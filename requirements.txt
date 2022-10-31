@@ -1,0 +1,6 @@
+six==1.11.0
+tensorflow_gpu==1.4.0
+numpy==1.13.3+mkl
+scipy==0.19.1
+Pillow==5.1.0
+scikit_learn==0.19.1
